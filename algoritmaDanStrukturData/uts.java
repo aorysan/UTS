@@ -22,5 +22,6 @@ class uts {
         int cari = sc.nextInt();
 
         merge.search(cari, data);
+        
     }
 }
